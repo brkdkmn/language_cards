@@ -1,6 +1,6 @@
 {
   "homepage": "http://brkdkmn.github.io/language_cards",
-  "name": "languagecards",
+  "name": "language-cards",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
